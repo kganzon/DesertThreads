@@ -1,4 +1,4 @@
-# DesertThreads-Heat Safety Education
+# DesertThreads: Heat Safety Education
 
 Digital Component to HXDI Thesis Project "DesertThreads"
 
