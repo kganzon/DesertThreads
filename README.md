@@ -1,4 +1,4 @@
-# KeepCool-DesertThreads
+# DesertThreads-Heat Safety Education
 
 Digital Component to HXDI Thesis Project "DesertThreads"
 
