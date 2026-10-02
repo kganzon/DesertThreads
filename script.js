@@ -43,28 +43,28 @@ const editableImageSlots = [
     type: 'symptom',
     selector: '#symptoms article:nth-of-type(1)',
     key: 'early-symptoms',
-    src: 'Images/Early Symptoms.png',
+    src: 'Images/early symptoms.png',
     alt: 'Early symptoms of heat illness'
   },
   {
     type: 'symptom',
     selector: '#symptoms article:nth-of-type(2)',
     key: 'life-threatening',
-    src: 'Images/Life Threatening.png',
+    src: 'Images/life-threatening symptoms.png',
     alt: 'Life-threatening signs of heat illness'
   },
   {
     type: 'section',
     selector: '#prevent .mb-9',
     key: 'heat-prevention',
-    src: 'Images/Heat Prevention.png',
+    src: 'Images/water.png',
     alt: 'Heat illness prevention'
   },
   {
     type: 'section',
     selector: '#plan .mb-9',
     key: 'plan-the-day',
-    src: 'Images/Plan the Day.png',
+    src: 'Images/take rest breaks.png',
     alt: 'Planning a safer workday'
   }
 ];
